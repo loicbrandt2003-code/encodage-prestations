@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/", "destination": "/resolvia-prestations.html" }
+  ]
+}
